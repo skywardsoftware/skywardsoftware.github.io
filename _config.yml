@@ -9,14 +9,13 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
-address:
-  - line:
-  - line:
+owner: skyward software ltd
+email: contact@skywardsoftware.co.uk
+address: 
+  - line: Everdene House 
+  - line: Deansleigh Road
+  - line: Bournemouth
+  - line: BH7 7DU
   # Feel free to add more lines here 
 telephone:
 copyright:
